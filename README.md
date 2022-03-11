@@ -1,12 +1,11 @@
 # Intro-to-CV-and-Image-Processing
 
-Introduction to Computer Vision and Image Processing. This course uses Python, Pillow and OpenCV for basic image processing and perform image classification and object detection.
-Link: https://www.coursera.org/learn/introduction-computer-vision-watson-opencv?specialization=ai-engineer
+[Introduction to Computer Vision and Image Processing](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv?specialization=ai-engineer)
+This course uses Python, Pillow and OpenCV for basic image processing and perform image classification and object detection.
 
+This is the third course on the [IBM AI Engineering Specialization](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras?specialization=ai-engineer) on Coursera.
 
-This is the third course on the IBM AI Engineering Specialization on Coursera. Link: https://www.coursera.org/learn/introduction-to-deep-learning-with-keras?specialization=ai-engineer
-
-
+```
 1 - Introduction to Computer Vision 
 
 2 - Image Processing with OpenCV and Pillow
@@ -17,4 +16,6 @@ This is the third course on the IBM AI Engineering Specialization on Coursera. L
 
 5 - Object Detection
 
-6 - Project Case: Not Quite a Self-Driving Car - Traffic Sign Classification
+6 - Project Case: Not Quite a Self-Driving Car - Traffic Sign Classification.
+The Project (Stop/No Stop) Application was deployed using CV Studio. It can be accessed [here](https://my-stop-sign-classification-app-622a43fc8ed86cbb696befcf.lfu1hlh6xfa.eu-gb.codeengine.appdomain.cloud/)
+```
